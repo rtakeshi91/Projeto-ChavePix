@@ -1,4 +1,4 @@
-package com.project.ApiPix;
+package com.project.ApiPix.Main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,6 @@
 package com.project.ApiPix.Controller;
 
 import com.project.ApiPix.Entities.ChavePixJpa;
-import com.project.ApiPix.Record.ChavePixDto;
 import com.project.ApiPix.Service.ChavePixService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
